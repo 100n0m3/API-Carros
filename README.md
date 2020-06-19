@@ -1,9 +1,10 @@
 # API-Carros
 Api publica de consulta de placas.
 
-BD ATUAL | 177284073  | de placas
+BD ATUAL | 178383077  | de placas
 
-
+OBS: V1 sera desativada em breve!.
+quem tiver interesse em continuar usando a api entre em contato vamos gerar um token de acesso!.
 
 https://app.swaggerhub.com/apis/douglasrc/api-carros/1.0.1#/
 
