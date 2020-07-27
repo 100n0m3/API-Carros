@@ -4,7 +4,7 @@ Api publica de consulta de placas.
 BD ATUAL | 178383077  | de placas
 
 OBS: V1 DESATIVADA PARCIALMENTE.
-quem tiver interesse em continuar usando a api entre em contato vamos gerar um token de acesso!.
+quem tiver interesse em continuar usando a api entre em contato.
 
 https://app.swaggerhub.com/apis/douglasrc/api-carros/1.0.1#/
 
